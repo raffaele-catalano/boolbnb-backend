@@ -1,7 +1,7 @@
-# BoolBnb - TEAM #2
->Back-End environment
+# BoolBnB
+>Back-End Environment
 
-Realizzazione di un progetto in Team per lo sviluppo di una webapp che permette di trovare e gestire l’affitto di appartamenti.
+Un progetto in Team per lo sviluppo di una webapp che permette di trovare e gestire l’affitto di appartamenti.
 
 I proprietari di appartamenti, registrandosi a BoolBnB, possono inserire le informazioni delle loro proprietà e decidere se sponsorizzarle per avere una posizione evidenziata nelle ricerche e in home page.
 
